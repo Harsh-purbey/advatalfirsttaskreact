@@ -782,6 +782,9 @@ tbody tr {
     grid-template-columns: 1fr; 
     grid-template-rows: repeat(2, 1fr); 
   }
+  .banner-right{
+    grid-row: 1;
+  }
   .open {
     position: absolute;
     top: 0%;
